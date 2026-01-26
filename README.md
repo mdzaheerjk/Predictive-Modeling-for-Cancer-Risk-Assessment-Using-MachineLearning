@@ -1,0 +1,2 @@
+# Predictive-Modeling-for-Cancer-Risk-Assessment-Using-Machine-Learning
+This project develops a machine learning model to predict cancer risk levels (High, Medium, Low) based on demographic, behavioral, and health data. It addresses class imbalance using techniques like SMOTE and optimizes model performance with hyperparameter tuning, providing crucial insights for early detection and intervention.
