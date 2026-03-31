@@ -1,8 +1,0 @@
-numpy
-pandas
-scikit-learn
-optuna
-xgboost
-lightgbm
-streamlit
-joblib
